@@ -1,0 +1,64 @@
+BLACK
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 0f 1b 0e 0d 0E 0D
+0c 0F 0A 0g 0d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+RED
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 0f 1b 0e 0d 0E 0D
+0c 0F 0A 1g 0d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+BLACK
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 0f 1b 0e 0d 0E 0D
+0c 0F 1A 1g 0d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+RED
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 1f 1b 0e 0d 0E 0D
+0c 0F 1A 1g 0d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+BLACK
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 1f 1b 1e 0d 0E 0D
+0c 0F 1A 1g 0d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+RED
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 1f 1b 1e 0d 0E 0D
+0c 0F 1A 1g 1d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+BLACK
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 1f 1b 1e 0d 0E 0D
+0c 1F 1A 1g 1d 0A 0a 0A
+0a 0C 0f 0C 0c 0E 0G 0D
+0
+0
+
+RED
+0B 0a 0F 0A 0e 0b 0a 0A
+0B 0a 1f 1b 1e 0d 0E 0D
+0c 1F 1A 1g 1d 0A 0a 0A
+0a 0C 0f 1C 0c 0E 0G 0D
+0
+0
+
